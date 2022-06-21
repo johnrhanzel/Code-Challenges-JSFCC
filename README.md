@@ -2,7 +2,7 @@
  This is the compilation of the FreeCodeCamp JavaScript Codes
 
  Note:
- - The code that you will see here is only some of the coding challenges that I find difficult to solve. I hope that it will help some of the beginners in the field.
+ - The code that you will see here is only some of the coding challenges. I hope that it will help some of the beginners in the field.
 
 1. Basics of JavaScript
 2. ES6
